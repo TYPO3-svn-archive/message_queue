@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'message_queue'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_messagequeue_message">Message queue message</label>
+			<label index="tx_messagequeue_message.channel">Channel</label>
+			<label index="tx_messagequeue_message.message_text">Message</label>
+			<label index="tx_messagequeue_message.priority">Priority</label>
+			<label index="tx_messagequeue_message.error">Error</label>
+			<label index="tx_messagequeue_message.error_nextrun">Error nextrun</label>
+			<label index="tx_messagequeue_message.error_message">Error message</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="tx_messagequeue_message">Nachrichtenwarteschlangeneintrag</label>
+			<label index="tx_messagequeue_message.channel">Channel</label>
+			<label index="tx_messagequeue_message.message_text">Nachricht</label>
+			<label index="tx_messagequeue_message.priority">Priorität</label>
+			<label index="tx_messagequeue_message.error">Error</label>
+			<label index="tx_messagequeue_message.error_nextrun">Error nextrun</label>
+			<label index="tx_messagequeue_message.error_message">Error message</label>
+		</languageKey>
+	</data>
+</T3locallang>
